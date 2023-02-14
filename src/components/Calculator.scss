@@ -6,6 +6,7 @@
 
   table tbody {
     width: 50vw;
+    min-width: 320px;
     height: 50vh;
     display: grid;
     grid-template-rows: repeat(6, 1fr);
