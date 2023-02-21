@@ -1,7 +1,25 @@
-a {
-  color: #333;
-  text-decoration: none;
+.navbar {
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
 }
+
+.navlinks {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+a {
+  padding-right: 1rem;
+  color: #333;
+}
+
 /* Active route */
 .active {
   color: #8a4baf;
