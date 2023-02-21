@@ -3,10 +3,10 @@
   padding: 10px;
   box-shadow: 4px 4px 10px 2px #888;
   border-radius: 4px;
+  width: 320px;
 
   table tbody {
-    width: 50vw;
-    min-width: 320px;
+    width: 320px;
     height: 50vh;
     display: grid;
     grid-template-rows: repeat(6, 1fr);
