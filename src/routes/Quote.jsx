@@ -1,4 +1,3 @@
-/* eslint-disable max-len */
 import './Quote.css';
 
 const Quote = () => (
