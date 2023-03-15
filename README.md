@@ -133,12 +133,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Project 2: Components**
-- [ ] **Project 3: Events**
-- [ ] **Project 4: Refactor with hooks**
-- [ ] **Project 5: Full website**
-- [ ] **Project 6: Tests with pair programming**
-- [ ] **Deployment**
+- [ ] **none planned**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
